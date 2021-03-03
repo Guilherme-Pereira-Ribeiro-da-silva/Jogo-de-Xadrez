@@ -1,0 +1,88 @@
+body{
+    background: #674d3c;
+}
+
+.xadrez{
+    outline: #ba8f5e 10px solid;
+}
+
+.Movimentos{
+    height: 400px;
+    width: 400px;
+    border: #ba8f5e 10px solid;
+    border-radius: 10px;
+}
+
+.bg-wheat{
+    background: wheat;
+}
+
+.bg-light-black{
+    background: #575757;
+    opacity: 0.75;
+}
+
+.bg-brown{
+    background: #674d3c;
+}
+
+.bg-casa-branca{
+    background: #dccbad;
+}
+
+.bg-casa-preta{
+    background: #b98f5d;
+}
+
+.bg-casa-atacada{
+    background: #FF6461 !important;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.cursor-pointer:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+.circulo{
+    margin-top: 30%;
+    margin-left: 30%;
+    width: 40%;
+    height: 40%;
+    background-color: black;
+    opacity: 0.3;
+    border-radius: 50%;
+}
+
+.pecas-promocao{
+    max-height: 90%;
+    max-width: 20%;
+    margin-right: 5px;
+}
+
+.imagem-jogador{
+    max-width: 10%;
+}
+
+.imagem-jogador-Card{
+    max-width: 40%;
+}
+
+.img-peca-capturada{
+    max-width: 20px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.card{
+    max-width: 50%;
+    max-height: 60%;
+}
+
+.div-query{
+
+}
+
